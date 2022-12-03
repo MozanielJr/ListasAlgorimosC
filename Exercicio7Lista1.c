@@ -19,7 +19,7 @@ printf("Digite o nome do funcionario:");
 scanf("%s",&nome);
 
 fflush(stdin);
-printf("Digite o sexo F ou M:\n");
+printf("Digite o sexo F ou M:");
 scanf("%c",&sexo);
 
 printf("Digite a Matricula do funcionario:");
